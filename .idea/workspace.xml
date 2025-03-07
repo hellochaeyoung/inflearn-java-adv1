@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8625a2f-fab0-452c-a29f-4138d868164e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-adv1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/quiz/StartTest1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/quiz/StartTest2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/quiz/StartTest3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/quiz/StartTest4Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/BadThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/DemonThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloRunnableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/ManyThreadMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/ManyThreadMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MyLoggerMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tz5b3YIN0lk2xB01l0K8yApgUS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BadThreadMain.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.DemonThreadMain.executor": "Run",
+    "Application.HelloRunnableMain.executor": "Run",
+    "Application.HelloThreadMain.executor": "Run",
+    "Application.InnerRunnableMainV1.executor": "Run",
+    "Application.InnerRunnableMainV2.executor": "Run",
+    "Application.InnerRunnableMainV4.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ManyThreadMainV1.executor": "Run",
+    "Application.ManyThreadMainV2.executor": "Run",
+    "Application.MyLoggerMain.executor": "Run",
+    "Application.StartTest1Main.executor": "Run",
+    "Application.StartTest2Main.executor": "Run",
+    "Application.StartTest3Main.executor": "Run",
+    "Application.StartTest4Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread.quiz" />
+      <recent name="thread.start" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartTest3Main">
+    <configuration name="InnerRunnableMainV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.start.InnerRunnableMainV4" />
+      <module name="java-adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTest1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.quiz.StartTest1Main" />
+      <module name="java-adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTest2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.quiz.StartTest2Main" />
+      <module name="java-adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTest3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.quiz.StartTest3Main" />
+      <module name="java-adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTest4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.quiz.StartTest4Main" />
+      <module name="java-adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartTest3Main" />
+        <item itemvalue="Application.StartTest4Main" />
+        <item itemvalue="Application.StartTest1Main" />
+        <item itemvalue="Application.StartTest2Main" />
+        <item itemvalue="Application.InnerRunnableMainV4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8625a2f-fab0-452c-a29f-4138d868164e" name="Changes" comment="" />
+      <created>1741342130613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741342130613</updated>
+      <workItem from="1741342131588" duration="5528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
