@@ -1,6 +1,4 @@
-package thread.quiz;
-
-import util.MyLogger;
+package thread.quiz.d2;
 
 import static java.lang.Thread.sleep;
 import static util.MyLogger.log;

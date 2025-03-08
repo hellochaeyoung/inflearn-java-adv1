@@ -1,4 +1,4 @@
-package thread.quiz;
+package thread.quiz.d2;
 
 import static util.MyLogger.log;
 
